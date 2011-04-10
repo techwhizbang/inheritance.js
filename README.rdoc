@@ -1,0 +1,7 @@
+= inheritance.js
+
+== Instructions
+
+A very simple lightweight core library that adds "inheritsFrom" globally so that you can extend classes.
+
+Please refer to the spec/InheritanceSpec.js for examples of usage.  
